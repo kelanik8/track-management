@@ -1,5 +1,7 @@
 ### Installation Guide
 
+Sample CSV format  `'frontend/data/template-data.csv'`
+
 #### STEP 1
 
 clone repo `'git clone https://github.com/kelanik8/track-management.git'`
